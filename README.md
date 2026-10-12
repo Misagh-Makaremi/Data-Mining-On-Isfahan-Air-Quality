@@ -1,6 +1,7 @@
 # Data-Mining-On-Isfahan-Air-Quality
 ## Statistical analysis and data mining over 6 years of Isfahan air quality data
 <img width="794" height="400" alt="image" src="https://github.com/user-attachments/assets/17885516-5849-4584-8648-41778c79e7b0" />
+You can read the [final report](https://lnkd.in/dr4R5Wy2) from this link. 
 
 ### Introduction
 The present project was carried out using 6 years of air quality data in Isfahan. The data was provided by the Transportation and Traffic Department of Isfahan Municipality, which included two data sets: “pollutant concentrations” and “meteorological indices”.
