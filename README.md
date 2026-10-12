@@ -45,4 +45,5 @@ This data was provided to interested parties by the Transportation and Traffic D
 - Wind speed distribution: Colors or segments within each bar represent the proportion of time the wind blows within specific speed ranges.
 
 <img width="1665" height="1133" alt="image" src="https://github.com/user-attachments/assets/1b9fa2f0-8879-4962-a94c-1e0952519583" /> <img width="293" height="412" alt="image" src="https://github.com/user-attachments/assets/0d632cd8-631e-43e9-a086-61c354ec08bf" />
+
 In addition to wind speed distribution and frequency across various directions, the presented charts display ozone concentration values ​​at each recorded time point using dots. Blue dots indicate low concentrations, while red dots indicate high concentrations of this pollutant. Furthermore, the size of the dots increases as ozone levels rise. Thus, one can observe wind patterns while simultaneously noting their impact on the increase or decrease of ozone concentrations.
