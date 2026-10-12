@@ -38,7 +38,7 @@ In the following, we try to examine the four key focuses of this project by usin
 This data was provided to interested parties by the Transportation and Traffic Department of Isfahan Municipality for the purpose of participating in a statistical analysis competition. As a result, the material and intellectual rights of this dataset are in the possession of Isfahan Municipality.
 
 ### Windrose Plot
-🌬Wind rose diagrams are graphical tools used in meteorology to visualize the distribution of wind speed and direction at a specific location over a given period. This circular chart displays the following:
+🌬Windrose diagrams are graphical tools used in meteorology to visualize the distribution of wind speed and direction at a specific location over a given period. This circular chart displays the following:
 - Wind direction: Indicated by compass directions (e.g., N, NE, E, SE, etc.) along the circumference of the circle.
 - Wind speed: Represented by concentric circles or arcs, where the distance from the center indicates the magnitude of the wind speed.
 - Wind frequency: The length of each "petal" or "bar" in a specific direction indicates how often the wind blows from that direction.
