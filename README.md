@@ -36,3 +36,13 @@ In the following, we try to examine the four key focuses of this project by usin
 - Clouds [Octas]
 #### 📝License
 This data was provided to interested parties by the Transportation and Traffic Department of Isfahan Municipality for the purpose of participating in a statistical analysis competition. As a result, the material and intellectual rights of this dataset are in the possession of Isfahan Municipality.
+
+### Windrose Plot
+🌬Wind rose diagrams are graphical tools used in meteorology to visualize the distribution of wind speed and direction at a specific location over a given period. This circular chart displays the following:
+•	Wind direction: Indicated by compass directions (e.g., N, NE, E, SE, etc.) along the circumference of the circle.
+•	Wind speed: Represented by concentric circles or arcs, where the distance from the center indicates the magnitude of the wind speed.
+•	Wind frequency: The length of each "petal" or "bar" in a specific direction indicates how often the wind blows from that direction.
+•	Wind speed distribution: Colors or segments within each bar represent the proportion of time the wind blows within specific speed ranges.
+In addition to wind speed distribution and frequency across various directions, the presented charts display ozone concentration values ​​at each recorded time point using dots. Blue dots indicate low concentrations, while red dots indicate high concentrations of this pollutant. Furthermore, the size of the dots increases as ozone levels rise. Thus, one can observe wind patterns while simultaneously noting their impact on the increase or decrease of ozone concentrations.
+
+<img width="1665" height="1133" alt="image" src="https://github.com/user-attachments/assets/1b9fa2f0-8879-4962-a94c-1e0952519583" /> <img width="293" height="412" alt="image" src="https://github.com/user-attachments/assets/0d632cd8-631e-43e9-a086-61c354ec08bf" />
